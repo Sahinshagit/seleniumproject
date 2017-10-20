@@ -13,4 +13,3 @@ git init
 git config --global user.email -  to know the email details
 git config --global user.name - to know the user details
 
-hi
