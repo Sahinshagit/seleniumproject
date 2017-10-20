@@ -1,0 +1,14 @@
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Sahinshagit/seleniumproject.git
+git push -u origin master
+
+
+git init
+ git config --global user.email "sahinshasameer@gmail.com"
+  git config --global user.name "Sahinshagit"
+
+
+git config --global user.email -  to know the email details
+git config --global user.name - to know the user details
